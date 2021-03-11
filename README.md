@@ -1,4 +1,5 @@
 # xprnstore
 xprnstore merupakan sebuah web Toko Online khusunya pada fashion yang dibangun dari Wordpress
 
-![](ReviewXPRNWeb.mp4)
+# Review Website xprnstore
+![](https://youtu.be/Rl1_wLsFhuE)
